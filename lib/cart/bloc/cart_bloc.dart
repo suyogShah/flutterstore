@@ -2,7 +2,6 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:meta/meta.dart';
-import 'package:suyogstore/cart/model/cartModel.dart';
 import 'package:suyogstore/home/model/cartItems.dart';
 import 'package:suyogstore/home/model/productmodel.dart';
 

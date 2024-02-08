@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:suyogstore/cart/bloc/cart_bloc.dart';
 import 'package:suyogstore/cart/ui/cart_widget.dart';
-import 'package:suyogstore/home/model/cartItems.dart';
+
 
 
 

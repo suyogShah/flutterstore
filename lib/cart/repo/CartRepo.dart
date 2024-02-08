@@ -4,7 +4,7 @@ import 'dart:developer';
 
 import 'package:http/http.dart' as http;
 import 'package:suyogstore/cart/model/cartModel.dart';
-import 'package:suyogstore/home/model/productmodel.dart';
+
 
 class CartRepo {
   static Future<List<CartModel>> fetchPosts() async {

@@ -3,7 +3,7 @@ import 'package:flutter/rendering.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:suyogstore/home/Categories/bloc/categories_bloc.dart';
-import 'package:suyogstore/home/bloc/home_bloc.dart';
+
 
 import 'package:suyogstore/home/model/productmodel.dart';
 import 'package:suyogstore/home/productDetail/ui/ProductDetail.dart';
